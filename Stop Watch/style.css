@@ -1,0 +1,21 @@
+body{
+  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+     text-align: center;
+     
+}
+
+
+h1{
+    background-color: brown;
+  color: blue;
+  display: inline-block;
+  width: 100px;
+  
+}
+button{
+    width: 100px;
+    height: 80px;
+}
+button:hover{
+    background-color: chartreuse;
+}
